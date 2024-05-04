@@ -3,7 +3,7 @@ title: "Resort venue finalized!"
 meta_title: ""
 description: "this is meta description"
 date: 2024-05-04T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/resort.png"
 categories: ["Core Committee"]
 author: "Admin"
 tags: ["resort", "dinner"]

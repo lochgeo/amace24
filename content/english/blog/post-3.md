@@ -3,7 +3,7 @@ title: "Last day for registration!"
 meta_title: ""
 description: "this is meta description"
 date: 2024-04-14T05:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/calendar.png"
 categories: ["Finance"]
 author: "Admin"
 tags: ["finance", "planning"]
