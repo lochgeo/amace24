@@ -63,8 +63,8 @@ content = "Have you registered? If not, please contact your batch rep today!"
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+description = "amace24 - mace 2004 batch reunion"
+author = "macetronics"
 image = "images/og-image.png"
 
 
