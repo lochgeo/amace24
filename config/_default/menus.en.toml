@@ -1,0 +1,34 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "Event"
+pageRef = "/event"
+weight = 2
+
+[[main]]
+name = "Updates"
+pageRef = "/blog"
+weight = 3
+
+[[main]]
+name = "Contact"
+pageRef = "/contact"
+weight = 4
+
+
+# footer menu
+[[footer]]
+name = "Event"
+pageRef = "/event"
+weight = 1
+
+[[footer]]
+name = "Blog"
+pageRef = "/blog"
+weight = 2
