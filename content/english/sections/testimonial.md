@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "What are our friends saying about the reunion?"
-description: "Don't just take our word for it - hear from some of our frinds who plan to attend!"
+description: "Don't just take our word for it - hear from some of our friends who plan to attend!"
 
 # Testimonials
 testimonials:
