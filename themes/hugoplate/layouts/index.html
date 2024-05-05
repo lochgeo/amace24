@@ -33,6 +33,7 @@
     </section>
   {{ end }}
   <!-- /Banner -->
+  {{ partial "timer" . }}
   <!-- Testimonials -->
   {{ with site.GetPage "sections/testimonial" }}
     {{ if .Params.enable }}
