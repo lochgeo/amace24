@@ -1,7 +1,7 @@
 ---
 title: "Resort venue finalized!"
 meta_title: ""
-description: "this is meta description"
+description: "Whispering Waters resort has been booked for the event"
 date: 2024-05-04T05:00:00Z
 image: "/images/resort.png"
 categories: ["Core Committee"]
@@ -14,11 +14,11 @@ We have exciting news to share about our upcoming 20th reunion weekend! After mu
 
 Here's a sneak peek at what's in store:
  - Reunion Dinner - Saturday, July 20th
- - Location: Whispering Waters
- - 6:30pm - 7:30pm: Meet and greet everyone and catch-up on the years gone by
- - 7:30pm - 10:00pm: Three-course dinner, music and DJ!
+ - Location: [Whispering Waters](https://whisperingwaters.in/), [Google Maps link](https://maps.app.goo.gl/LxmUuCG683T8h3oh9)
+ - 6:00pm - 7:30pm: Meet and greet everyone and catch-up on the years gone by
+ - 7:30pm - 10:00pm: Dinner, music and DJ!
 
 The Whispering Waters resort will provide the perfect setting for mingling with old friends, enjoying delicious food and drinks. The resort itself has beautiful gardens, a spa, golf course, and more for those who want to extend the weekend.
 
 ## Discounted Room Rates Available
-A special room rate has been secured for our reunion attendees who wish to stay at the Whispering Waters Resort that weekend. More details on booking accommodations will be provided closer to the date.
+A special room rate has been secured for our reunion attendees who wish to stay at the Whispering Waters Resort that weekend. Please contact your batch representative for booking a room. Please be quick as there are only 20 rooms available. 
