@@ -25,5 +25,5 @@ features:
     button:
       enable: true
       label: "Get Latest Updates"
-      link: "/amace24/blog"
+      link: "/blog"
 ---
